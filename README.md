@@ -1,4 +1,4 @@
-# data-vue
+# Data-Vue
 
 ## Project setup
 ```
